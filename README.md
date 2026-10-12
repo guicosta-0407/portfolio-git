@@ -1,6 +1,6 @@
 # Portfólio Git
 
-Repositório criado para a Atividade 2 e Atividade 3.
+Repositório criado para a Atividade 2.
 
 ## Sobre o projeto
 
@@ -14,4 +14,4 @@ Este projeto reúne arquivos simples de um portfólio pessoal e serve para trein
 
 ## Autor
 
-Guilherme Marra Costalinha experimental
+Guilherme Marra Costa

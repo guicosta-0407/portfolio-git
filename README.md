@@ -14,4 +14,4 @@ Este projeto reúne arquivos simples de um portfólio pessoal e serve para trein
 
 ## Autor
 
-Guilherme Marra
+Guilherme Marra Costa

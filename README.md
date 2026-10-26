@@ -12,6 +12,8 @@ Este projeto reúne arquivos simples de um portfólio pessoal e serve para trein
 - `sobre.md`: informações sobre mim
 - `.gitignore`: arquivos e pastas ignorados pelo Git (`*.log` e `.vscode/`)
 
+## Habilidades
+
 ## Autor
 
 Guilherme Marra Costa

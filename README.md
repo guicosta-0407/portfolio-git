@@ -16,6 +16,8 @@ Este projeto reúne arquivos simples de um portfólio pessoal e serve para trein
 
 - Lizard Adventures: TTT
 
+## Habilidades
+
 ## Autor
 
 Guilherme Marra Costa

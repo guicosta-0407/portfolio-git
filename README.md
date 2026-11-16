@@ -58,5 +58,5 @@ Veja o arquivo [contato.md](contato.md) ou acesse meu perfil no GitHub: [@guicos
 
 ## Autor
 
-**Guilherme Marra Costa**
+**Guilherme da Costa Marra**
 Estudante de Engenharia de Computação, UFCI-MG, Campus Divinópolis.
